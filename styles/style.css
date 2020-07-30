@@ -1,0 +1,18 @@
+html{
+    font-weight: 300;
+    font-size: 16px;
+    font-family: 'Oswald', sans-serif;
+    background: rgb(70, 200, 70);
+}
+h1{
+    text-align: center;
+    text-shadow: crimson 2px 3px 0.5px;
+}
+li{
+    font-size: 22px;
+    letter-spacing: 22px;
+}
+img{
+    width: auto;
+    margin: 0px auto;
+}
